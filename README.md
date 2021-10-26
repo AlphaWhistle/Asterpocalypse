@@ -6,3 +6,5 @@ press space to shoot
 
 dont get hit
 and dont let the asteroids reach the end of the screen
+
+Note, in order to run this code, you must have pygame installed.
